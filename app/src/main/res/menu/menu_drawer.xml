@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/user_level"
+        android:title="User Level"
+        android:icon="@drawable/user_level"
+        />
+
+    <item
+        android:id="@+id/epin_details"
+        android:title="E-Pin Details"
+        android:icon="@drawable/epin_pin"
+        />
+
+    <item
+        android:id="@+id/requested_epin"
+        android:title="Requested E-Pin"
+        android:icon="@drawable/request"
+        />
+
+    <item
+        android:id="@+id/transaction_history"
+        android:title="Transaction History"
+        android:icon="@drawable/transaction"
+        />
+
+    <item
+        android:id="@+id/active_by_epin"
+        android:title="Active By E-Pin"
+        android:icon="@drawable/active"
+        />
+
+    <item
+        android:id="@+id/club_membership"
+        android:title="Club Membership"
+        android:icon="@drawable/membership"
+        />
+
+    <item
+        android:id="@+id/wallet"
+        android:title="Wallet History"
+        android:icon="@drawable/wallet_history"
+        />
+
+    <item
+        android:id="@+id/bank_details"
+        android:title="Bank Details"
+        android:icon="@drawable/bank"
+        />
+
+    <item
+        android:id="@+id/ecommers"
+        android:title="Ecommerce"
+        android:icon="@drawable/bank"
+        />
+
+</menu>
